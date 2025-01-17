@@ -7,11 +7,11 @@ lymewiki/lymewiki is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 # Table of Contents
-| Content | Summary |
-| --- | --- |
-| Resources: LymeCo medical protocols| A consolidated set of publicly-available protocols|
-| Experiences: LymeCo symptoms| Lyme and co symptoms can manifest in a variety of ways, we share a variety of studies here |
-| Experiences: LymeCo mental health | Studies show Lyme and other co-infections can have an impact on mental health |
+| Content | Type | Summary |
+| --- | --- | --- |
+| Resources | medical protocols| A consolidated set of publicly-available protocols|
+| Experiences | physical symptoms| Lyme and co symptoms can manifest in a variety of ways, we share a variety of studies here |
+| Experiences | mental health | Studies show Lyme and other co-infections can have an impact on mental health |
 
 # Resources
 ## LymeCo medical protocols
