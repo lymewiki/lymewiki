@@ -1,6 +1,10 @@
 - 👋 @lymewiki is an open-source, community-driven collection of resources to provide information to Lyme patients. 
 - 👀 We're interested in documenting and compiling science-based Lyme resources, research, and more about Lyme symptoms, diagnosis, and treatment and making important Lyme science accessible to all
 - 💞️ This is a Lyme-community driven effort and Lyme patient perspectives and experiences are respected and prioritized here. Our community values center on empathy, respect, and learning together. This community acknowledges the existence of and plethora of work dedicated to studying chronic Lyme disease.
+
+## No Github account, but want to contribute? [Submit a form with what you would like added.](https://forms.gle/aSSaM85gYSAUs1oE8)
+
+  
   _Note: This wiki is a public, information-sharing resource and does not constitute medical advice. Please consult with your medical team before starting, making modifications to, or stopping treatments._
 
 <!---
@@ -27,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 | [Under our Skin- Exposing the hidden epidemic of Lyme disease](https://www.youtube.com/watch?v=YMQC4xoAWhg) | Lyme | Video | A real-life thriller, this shocking festival hit exposes the controversy surrounding Lyme disease. Following the stories of patients and doctors fighting for their lives |
 | [Under our Skin 2- Investigating the Lyme Disease Crisis](https://www.youtube.com/watch?v=P2Sfj8zciJk) | Lyme | Video|  Investigates the deepening Lyme disease crisis and follows its casualties and controversies. |
 | [The Quiet Epidemic](https://www.thequietepidemic.com/) | Lyme | Video | A feature-length documentary about Lyme disease. |
-| [Cure Unknown: A documentary about Lyme disease](https://www.goodreads.com/en/book/show/2722728-cure-unknown) | Lyme | Book | A groundbreaking and controversial narrative investigation into the science, history, medical politics, and patient experience of Lyme disease told by a science journalist whose entire family contracted the disease. |
+| [Cure Unknown: Inside the Lyme Epidemic](https://www.goodreads.com/en/book/show/2722728-cure-unknown) | Lyme | Book | A groundbreaking and controversial narrative investigation into the science, history, medical politics, and patient experience of Lyme disease told by a science journalist whose entire family contracted the disease. |
 
 ## Treatment protocols
 | Protocol | Tickborne disease | Type | Summary |
