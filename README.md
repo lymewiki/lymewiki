@@ -26,9 +26,12 @@ You can click the Preview link to take a look at your changes.
 ## Symptoms
 | Protocol | Tickborne disease | Type | Summary |
 | --- | --- | --- | --- |
+| [Horowitz MSIDS](https://www.mdpi.com/2227-9032/6/4/129) | Lyme | Paper | | _To-do: plain language summary_ |
 | [Marty Ross Protocol](https://www.treatlyme.net/lyme-disease-treatment-guidelines) | Lyme | Website | _To-do: plain language summary_ |
 | [Marty Ross Bartonella Protocol](https://www.treatlyme.net/guide/ultimate-bartonella-treatments-and-treatment-guide)| Bartonella | Website | _To-do: plain language summary_ |
 | [Marty Ross Babesia Protocol](https://www.treatlyme.net/guide/kills-babesia-a-brief-guide) | Babesia | Website | _To-do: plain language summary_ |
+| [What is Bartonellosis? What's my treatment plan?](https://www.battlingbartonellosis.com/post/what-is-bartonellosis-and-what-s-the-plan) | Bartonella | Website|  _To-do: plain language summary_ |
+| [Mozayeni- Persistent Bartonella Infection](https://www.youtube.com/watch?v=qSCHlNIdov0) | Bartonella | Video | Potential treatment strategics start at 1:00 |
 
 ## Mental health
 | Protocol | Tickborne disease | Type | Summary |
