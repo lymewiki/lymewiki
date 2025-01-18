@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 | [Horowitz MSIDS 38 point symptom checklist](https://projectlyme.org/msids-questionnaire/) | Tickborne diseases | Website | A questionnaire to determine the probability of having Lyme disease and other tick-borne disorders. |
 | [LymeDisease.org symptom checklist](https://www.lymedisease.org/lyme-disease-symptom-checklist/) | Lyme | Website |  A checklist to help you document exposure to Lyme disease and common symptoms for your healthcare provider |
 | [LymeDisease.org symptom checklist](https://www.lymedisease.org/lyme-disease-symptom-checklist/) | Lyme | Website |  A checklist to help you document exposure to Lyme disease and common symptoms for your healthcare provider |
-| [Burrascano extensive list of Lyme disease symptoms](https://www.lymedisease.org/wp-content/uploads/2015/02/Symptomchecklist-burrascano.pdf) Lyme | PDF | A checklist from DIAGNOSTIC HINTS AND TREATMENT GUIDELINES FOR LYME AND OTHER TICK BORNE ILLNESSES By JOSEPH J. BURRASCANO JR., M.D. Copyright, September, 2010 |
+| [Burrascano extensive list of Lyme disease symptoms](https://www.lymedisease.org/wp-content/uploads/2015/02/Symptomchecklist-burrascano.pdf) | Lyme | PDF | A checklist from DIAGNOSTIC HINTS AND TREATMENT GUIDELINES FOR LYME AND OTHER TICK BORNE ILLNESSES By JOSEPH J. BURRASCANO JR., M.D. Copyright, September, 2010 |
 | [Chronic Lyme Disease: An Evidence-Based Definition by the ILADS Working Group](https://pmc.ncbi.nlm.nih.gov/articles/PMC6963229/) | Lyme | Paper | _To-do: plain language summary_ |
 | [LDo: Severity of chronic Lyme disease symptoms](https://peerj.com/articles/322/) | Lyme | Paper | _To-do: plain language summary_ |
 
