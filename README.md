@@ -2,7 +2,7 @@
 - 👀 We're interested in documenting and compiling science-based Lyme resources, research, and more about Lyme symptoms, diagnosis, and treatment and making important Lyme science accessible to all
 - 💞️ This is a Lyme-community driven effort and Lyme patient perspectives and experiences are respected and prioritized here. Our community values center on empathy, respect, and learning together. This community acknowledges the existence of and plethora of work dedicated to studying chronic Lyme disease.
 
-## No Github account, but want to contribute? [Submit a form with what you would like added.](https://forms.gle/aSSaM85gYSAUs1oE8)
+## No Github account, but want to contribute? [Submit contributions here!](https://forms.gle/aSSaM85gYSAUs1oE8)
 
   
   _Note: This wiki is a public, information-sharing resource and does not constitute medical advice. Please consult with your medical team before starting, making modifications to, or stopping treatments._
