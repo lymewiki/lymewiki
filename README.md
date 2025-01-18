@@ -1,4 +1,4 @@
-- 👋 @lymewiki is an open-source, community-driven collection of resources to provide information to and empower Lyme patients
+- 👋 @lymewiki is an open-source, community-driven collection of resources to provide information to Lyme patients. 
 - 👀 We're interested in documenting and compiling science-based Lyme resources, research, and more about Lyme symptoms, diagnosis, and treatment and making important Lyme science accessible to all
 - 💞️ This is a Lyme-community driven effort and Lyme patient perspectives and experiences are respected and prioritized here. Our community values center on empathy, respect, and learning together. This community acknowledges the existence of and plethora of work dedicated to studying chronic Lyme disease.
 
@@ -9,17 +9,17 @@ You can click the Preview link to take a look at your changes.
 # Table of Contents
 | Content | Type | Summary |
 | --- | --- | --- |
-| Resources | medical protocols| A consolidated set of publicly-available protocols|
-| Experiences | physical symptoms| Lyme and co symptoms can manifest in a variety of ways, we share a variety of studies here |
-| Experiences | mental health | Studies show Lyme and other co-infections can have an impact on mental health |
+| [Medical protocols](#medical-protocols) | Resources | A consolidated set of publicly-available protocols|
+| [Symptoms](#symptoms) | Experiences | Lyme and co symptoms can manifest in a variety of ways, we share a variety of studies here |
+| [Mental health](#mental-health) | Experiences | Studies show Lyme and other co-infections can have an impact on mental health |
 
 # Resources
-## LymeCo medical protocols
-| Content | Summary |
-| --- | --- |
-| Resources: LymeCo medical protocols| A consolidated set of publicly-available protocols|
-| Experiences: LymeCo symptoms| Lyme and co symptoms can manifest in a variety of ways, we share a variety of studies here |
-| Experiences: LymeCo mental health | Studies show Lyme and other co-infections can have an impact on mental health |
+## Medical protocols
+| Protocol | Tickborne disease | Summary |
+| --- | --- | --- |
+| [Marty Ross Protocol](https://www.treatlyme.net/lyme-disease-treatment-guidelines) | Lyme | _To-do: plain language summary_ |
+| [Marty Ross Bartonella Protocol](https://www.treatlyme.net/guide/ultimate-bartonella-treatments-and-treatment-guide)| Bartonella | _To-do: plain language summary_ |
+| [Marty Ross Babesia Protocol](https://www.treatlyme.net/guide/kills-babesia-a-brief-guide) | Babesia | _To-do: plain language summary_ |
 
 # Experiences
 ## LymeCo symptoms
