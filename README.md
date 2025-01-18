@@ -12,19 +12,27 @@ You can click the Preview link to take a look at your changes.
 | [Medical protocols](#medical-protocols) | Resources | A consolidated set of publicly-available protocols|
 | [Symptoms](#symptoms) | Experiences | Lyme and co symptoms can manifest in a variety of ways, we share a variety of studies here |
 | [Mental health](#mental-health) | Experiences | Studies show Lyme and other co-infections can have an impact on mental health |
+| [Chronic lyme research](#chronic-lyme-research) | Research | Research describing the prevalence and evidence for chronic Lyme |
 
 # Resources
 ## Medical protocols
-| Protocol | Tickborne disease | Summary |
-| --- | --- | --- |
-| [Marty Ross Protocol](https://www.treatlyme.net/lyme-disease-treatment-guidelines) | Lyme | _To-do: plain language summary_ |
-| [Marty Ross Bartonella Protocol](https://www.treatlyme.net/guide/ultimate-bartonella-treatments-and-treatment-guide)| Bartonella | _To-do: plain language summary_ |
-| [Marty Ross Babesia Protocol](https://www.treatlyme.net/guide/kills-babesia-a-brief-guide) | Babesia | _To-do: plain language summary_ |
+| Protocol | Tickborne disease | Type | Summary |
+| --- | --- | --- | --- |
+| [Marty Ross Protocol](https://www.treatlyme.net/lyme-disease-treatment-guidelines) | Lyme | Website | _To-do: plain language summary_ |
+| [Marty Ross Bartonella Protocol](https://www.treatlyme.net/guide/ultimate-bartonella-treatments-and-treatment-guide)| Bartonella | Website | _To-do: plain language summary_ |
+| [Marty Ross Babesia Protocol](https://www.treatlyme.net/guide/kills-babesia-a-brief-guide) | Babesia | Website | _To-do: plain language summary_ |
 
 # Experiences
-## LymeCo symptoms
-| Content | Summary |
-| --- | --- |
-| Resources: LymeCo medical protocols| A consolidated set of publicly-available protocols|
-| Experiences: LymeCo symptoms| Lyme and co symptoms can manifest in a variety of ways, we share a variety of studies here |
-| Experiences: LymeCo mental health | Studies show Lyme and other co-infections can have an impact on mental health |
+## Symptoms
+| Protocol | Tickborne disease | Type | Summary |
+| --- | --- | --- | --- |
+| [Marty Ross Protocol](https://www.treatlyme.net/lyme-disease-treatment-guidelines) | Lyme | Website | _To-do: plain language summary_ |
+| [Marty Ross Bartonella Protocol](https://www.treatlyme.net/guide/ultimate-bartonella-treatments-and-treatment-guide)| Bartonella | Website | _To-do: plain language summary_ |
+| [Marty Ross Babesia Protocol](https://www.treatlyme.net/guide/kills-babesia-a-brief-guide) | Babesia | Website | _To-do: plain language summary_ |
+
+## Mental health
+| Protocol | Tickborne disease | Type | Summary |
+| --- | --- | --- | --- |
+| [Marty Ross Protocol](https://www.treatlyme.net/lyme-disease-treatment-guidelines) | Lyme | Website | _To-do: plain language summary_ |
+| [Marty Ross Bartonella Protocol](https://www.treatlyme.net/guide/ultimate-bartonella-treatments-and-treatment-guide)| Bartonella | Website | _To-do: plain language summary_ |
+| [Marty Ross Babesia Protocol](https://www.treatlyme.net/guide/kills-babesia-a-brief-guide) | Babesia | Website | _To-do: plain language summary_ |
