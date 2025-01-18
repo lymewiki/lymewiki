@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 | [Treatment protocols](#treatment-protocols) | Resources | A consolidated set of publicly-available protocols|
 | [Symptoms](#symptoms) | Experiences | Lyme and co symptoms can manifest in a variety of ways, we share a variety of studies here |
 | [Mental health](#mental-health) | Experiences | Studies show Lyme and other co-infections can have an impact on mental health |
-| [Chronic lyme research](#chronic-lyme-research) | Research | Research describing the prevalence and evidence for chronic Lyme |
+<!--- TODO | [Chronic lyme research](#chronic-lyme-research) | Research | Research describing the prevalence and evidence for chronic Lyme | --->
 
 # Resources
 ## Basic resources
